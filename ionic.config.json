@@ -1,0 +1,7 @@
+{
+  "name": "dinanza",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
